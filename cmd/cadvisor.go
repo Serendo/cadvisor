@@ -117,6 +117,7 @@ var (
 		container.ResctrlMetrics:                 struct{}{},
 		container.CPUSetMetrics:                  struct{}{},
 		container.OOMMetrics:                     struct{}{},
+		container.CpuUsageMetrics:                struct{}{},
 	}
 )
 
